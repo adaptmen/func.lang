@@ -1,0 +1,25 @@
+{
+  "name": "func.lang",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adaptmen/func.lang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adaptmen/func.lang/issues"
+  },
+  "homepage": "https://github.com/adaptmen/func.lang#readme",
+  "dependencies": {
+    "typescript": "4.7.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
